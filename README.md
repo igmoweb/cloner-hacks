@@ -15,8 +15,8 @@ As soon as I discover plugins/themes that need a snippet, I'll put it here. Most
 
 ## How do I use this code? ##
 
-Navigate through folders to search your theme/plugin snippet. There should be only one file per plugin or theme. Once you find it, click on the file and then, click on `Raw` button and copy hte file content.
+Navigate through folders to search your theme/plugin snippet. There should be only one file per plugin or theme. Once you find it, click on the file and then, click on **Raw** button and copy hte file content.
 
-Then go to your site through FTP, for instance, create a new file into your wp-content/mu-plugins folder (if it does not exist, create it now). Called your file whatever you like but I'd call it `copier-hooks-the-slug-of-your-plugin.php` so you don't get confused.
+Then go to your site through FTP, for instance, create a new file into your wp-content/mu-plugins folder (if it does not exist, create it now). Called your file whatever you like but I'd call it **copier-hooks-the-slug-of-your-plugin.php** so you don't get confused.
 
 Paste the contents to this new file. MU Plugins are loaded always automatically. Next time you clone something, the code will work on its own, you don't need to do anything.
